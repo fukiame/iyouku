@@ -1,3 +1,0 @@
-Fix:
-- launch bug fix for Android 11/API 30
-- centering of landscape MainActivity

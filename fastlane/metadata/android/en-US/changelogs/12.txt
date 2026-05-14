@@ -1,3 +1,0 @@
-New:
-================
-* Reorder and show/hide fonts
