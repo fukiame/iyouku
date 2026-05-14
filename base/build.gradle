@@ -8,7 +8,7 @@ android {
     compileSdk 34
     buildFeatures.viewBinding = true
     defaultConfig {
-        applicationId "mf.asciitext.lite"
+        applicationId "me.fukia.iyouku"
         minSdk 30
         targetSdk 34
         versionCode 17
@@ -16,8 +16,7 @@ android {
         vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         resValue "string", "versionName", versionName
-        resValue "string", "feedbackUri", "https://mobilefirst.me/feedback?appId=irregular-expressions&os=android&version=" + versionName
-        resValue "string", "rateUri", "https://play.google.com/store/apps/details?id=" + applicationId
+        resValue "string", "feedbackUri", "https://github.com/fukiame/iyouku"
     }
     buildTypes {
         debug {

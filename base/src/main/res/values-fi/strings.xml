@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Irregular Expressions</string>
+    <string name="app_name">iyouku</string>
     <string name="kbd_layout_qwerty">QWERTY</string>
     <string name="kbd_layout_azerty">AZERTY</string>
     <string name="kbd_layout_qwertz">QWERTZ</string>
@@ -59,7 +59,7 @@
     <string name="enable_keyboard">1. Aktivoi näppäimistö</string>
     <string name="intro_subtitle">Käyttöohjeet</string>
     <string name="intro_header">Tervetuloa
-\nIrregular Expressions
+\niyouku
 \nnäppäimistön käyttäjäksi!</string>
     <string name="disabled">Ei käytössä</string>
     <string name="enabled">Käytössä</string>

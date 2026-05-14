@@ -73,7 +73,7 @@
             android:title="@string/source_code">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://github.com/MobileFirstLLC/irregular-expressions" />
+                android:data="https://github.com/fukiame/iyouku" />
         </PreferenceScreen>
         <Preference
             android:icon="@drawable/pref_ic_information_outline"
@@ -85,7 +85,7 @@
             android:title="@string/label_developer">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://mobilefirst.me" />
+                android:data="https://github.com/fukiame" />
         </PreferenceScreen>
     </PreferenceCategory>
 

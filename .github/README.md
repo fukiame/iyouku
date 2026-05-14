@@ -1,24 +1,19 @@
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=mf.asciitext.lite">
-    <img alt="Irregular Expressions" src="/assets/irregex.png" width="100" />
-  </a>
+  <img alt="iyouku" src="/assets/irregex.png" width="100" />
 </p>
 <h1 align="center">
-  <a href="https://play.google.com/store/apps/details?id=mf.asciitext.lite">🅸🆁𝚛🄴🅖🅄ʟ🄰ⓡ<br/>Expressions</a>
+  <a href="https://github.com/fukiame/iyouku/releases">iyouku</a>
 </h1>
 
 <p align="center">
-<img src='https://img.shields.io/github/last-commit/mobilefirstllc/irregular-expressions'/> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MobileFirstLLC/irregular-expressions" /> <a href="https://codeclimate.com/github/MobileFirstLLC/irregular-expressions/maintainability"><img src="https://api.codeclimate.com/v1/badges/7acf23c4d105b11b5d3e/maintainability" /></a>
+<img src='https://img.shields.io/github/last-commit/fukiame/iyouku'/> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/fukiame/iyouku" />
 <br/>  
-<img alt="F-Droid Release" src="https://img.shields.io/f-droid/v/mf.asciitext.lite.svg?logo=f-droid"/> <img alt="GitHub Release" src="https://img.shields.io/github/release/MobileFirstLLC/irregular-expressions?logo=github"/>
+<img alt="GitHub Release" src="https://img.shields.io/github/release/fukiame/iyouku?logo=github"/>
 <br/><br/>
-<a href="https://hosted.weblate.org/engage/irregular-expressions/">
-<img src="https://hosted.weblate.org/widgets/irregular-expressions/-/strings/287x66-black.png" alt="Translation status" />
-</a>
 </p>
 
 <h3 align="center">
-Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram &mdash; any app with typing!
+iyouku is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram &mdash; any app with typing!
 </h3>
 
 <br/><br/>
@@ -31,16 +26,7 @@ Irregular Expressions is a virtual keyboard for Android devices. With this keybo
 <br/><br/>
 
 <p align="center">
-<a href='https://play.google.com/store/apps/details?id=mf.asciitext.lite'> 
-<img alt='Get it on Google Play' height="72" align="center" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
-</a>
-<a href='https://f-droid.org/packages/mf.asciitext.lite/'> 
-<img alt='Get it on F-Droid' height="72" align="center" src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png'/>
-</a>
-</p> 
-<br/>
-<p align="center">
-You can also find APKs under <a href="https://github.com/MobileFirstLLC/irregular-expressions/releases">releases</a>.
+You can find APKs under <a href="https://github.com/fukiame/iyouku/releases">releases</a>.
 </p>  
 
 <br/><br/>
@@ -122,34 +108,6 @@ Note: some styles are not supported by older versions of Android. Android Oreo (
 This app collects no data about the user, None, 0 KB. 
 
 𝒯𝒽ℯ ℰ𝓃𝒹. 
-
-* * *
-
-### Help with translations
-
-If you want to use the keyboard in your native language, consider translating it. Current status:
-
-<a href="https://hosted.weblate.org/engage/irregular-expressions/">
-<img src="https://hosted.weblate.org/widgets/irregular-expressions/-/strings/multi-auto.svg" alt="Translation status" width="500" />
-</a>
-
-**[Translate on Weblate](https://hosted.weblate.org/engage/irregular-expressions/)**
-
-* * *
-
-### Sponsor this project
-
-If you enjoy this keyboard and/or find the source code useful consider sponsoring the project. We make ad-free, free software and do not spy or steal your data. All support is greatly appreciated.
-
-**[Become a sponsor](https://github.com/sponsors/MobileFirstLLC?o=sd&sc=t)**
-
-* * *
-
-### Want to become a beta tester?
-
-Beta testers are a vital part of software development process. As a beta tester you get early access to releases and can provide feedback to the developer if something is not working correctly, before the software is released to all users. Becoming a beta tester does not cost anything and you can leave the program at any time.
-
- **[Join Beta Tester Program](https://play.google.com/apps/testing/mf.asciitext.lite).**
 
 * * *
 

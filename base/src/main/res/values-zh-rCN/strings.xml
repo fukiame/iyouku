@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Irregular Expressions</string>
+    <string name="app_name">iyouku</string>
     <string name="title_activity_settings">设定</string>
     <string name="label_settings">用户首选项</string>
     <string name="label_developer">开发者</string>
@@ -15,7 +15,7 @@
     <string name="source_summary">欢迎合并请求</string>
     <string name="enabled">已启用</string>
     <string name="disabled">已禁用</string>
-    <string name="intro_header">欢迎来到\nIrregular Expressions\n键盘！</string>
+    <string name="intro_header">欢迎来到\niyouku\n键盘！</string>
     <string name="intro_subtitle">如何使用</string>
     <string name="enable_keyboard">1. 启用键盘</string>
     <string name="select_keyboard">2. 选择键盘</string>
