@@ -412,7 +412,7 @@ class MyInputMethodService : InputMethodService(), OnKeyboardActionListener {
             if (reverseCursorDirection) {
                 inputConnection.deleteSurroundingText(0, 1)
             } else
-                inputConnection.deleteSurroundingText(1, 0)
+                inputConnection.sendKeyEvent(Keyboard.KEYCODE_DELETE)
         } else {
             inputConnection.commitText("", 1)
         }
