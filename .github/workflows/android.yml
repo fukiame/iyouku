@@ -18,7 +18,7 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
           cache: gradle
-      - run: ./gradlew :base:assembleDebug
+      - run: gradle :base:assembleDebug
       - run: |
           APK_FILE=$(find base/build/outputs/apk/debug -name '*.apk')
           echo "APK_FILE=$APK_FILE" >> $GITHUB_ENV
